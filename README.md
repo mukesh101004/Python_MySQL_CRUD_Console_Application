@@ -5,10 +5,15 @@ This is a simple Command-Line CRUD (Create, Read, Update, Delete) application bu
 🚀 Features
 
 ➕ Insert new records into MySQL database
+
 📄 Display records in a formatted table
+
 ✏️ Update specific fields
+
 ❌ Delete records
+
 🔄 Continuous menu-driven program
+
 📊 Table display using tabulate
 
 🛠️ Technologies Used
